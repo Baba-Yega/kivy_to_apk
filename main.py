@@ -21,7 +21,7 @@ drowsy_alert_start_time = None
 drowsy_alert_duration = 10  # 10 seconds
 flag = True
 
-
+#run
 def eye_aspect_ratio(eye):
     # Extract the coordinates of eye landmarks
     print(eye[1])
